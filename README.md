@@ -14,6 +14,8 @@
 
 * 🏆 Awarded 1st prize in a college-level Ideafest competition for the innovative concept.
 
+* [See here](https://github.com/JohnPaulNaiju/4note)
+
 ### 3) 🌐 Co-Founder and Engineer at Wytty Platforms (shutdown]
 
 * **Jan 2022 – Nov 2023**
@@ -25,3 +27,5 @@
 * 🥇 Won 1st prize in the **Horuss Productathon** organized by GDSC GECT.
 
 * *Despite the app's success in development and reception, the startup ultimately did not succeed commercially.*
+
+* [See here](https://github.com/JohnPaulNaiju/wytty)
