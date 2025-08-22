@@ -28,9 +28,10 @@
 
 * Presented the application at the **2023 IEDC Summit** in CET.
 
----
 * 🥇 Won 1st prize in the **Horuss Productathon** organized by GDSC GECT.
 
 * *Despite the app's success in development and reception, the startup ultimately did not succeed commercially.*
 
 * [See here](https://github.com/JohnPaulNaiju/wytty)
+
+---
