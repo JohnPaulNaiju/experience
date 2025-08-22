@@ -1,7 +1,5 @@
 <h1><img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="100"/>Experience</h1>
 
----
-
 ### 1) 💼 Freelance Software Developer (present]
 
 * **Nov 2023 – Present**
@@ -30,6 +28,7 @@
 
 * Presented the application at the **2023 IEDC Summit** in CET.
 
+---
 * 🥇 Won 1st prize in the **Horuss Productathon** organized by GDSC GECT.
 
 * *Despite the app's success in development and reception, the startup ultimately did not succeed commercially.*
